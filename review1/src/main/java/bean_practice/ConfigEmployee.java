@@ -13,4 +13,5 @@ public class ConfigEmployee {
     public PartTimeEmployee partTimeEmployee(){
         return new PartTimeEmployee();
     }
+
 }
