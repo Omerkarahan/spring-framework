@@ -36,6 +36,6 @@ public class StudentController {
         model.addAttribute("student",student);
 
 
-        return "/student/welcome";
+        return "student/welcome";
     }
 }
